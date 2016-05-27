@@ -1,2 +1,2 @@
 # programacao
-Programação Estruturada e Orientada a Objetos.\n Permitido o uso geral
+Programação Estruturada e Orientada a Objetos. Permitido o uso geral
